@@ -4,7 +4,7 @@ Practica Concesionario;
 
 ## Instalación
 
-Ejecutar los archivos.
+Ejecutar los archivos para registrar/gestionar, comprobar en Base de datos que se han insertado
 
 ## Uso
 
